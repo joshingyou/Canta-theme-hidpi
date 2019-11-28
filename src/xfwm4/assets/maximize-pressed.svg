@@ -1,8 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
-  <rect width="32" height="32" fill="#47504e"/>
-  <rect width="32" height="1" fill="#FFFFFF" fill-opacity="0.1"/>
-  <g fill="#FFFFFF">
-    <circle cx="16" cy="16" r="12" opacity="0.3"/>
-    <path d="m12 12v8h8v-8zm2 2h4v4h-4z"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48pt" height="48pt" viewBox="0 0 48 48" version="1.1">
+<defs>
+<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
+  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+</filter>
+<mask id="mask0">
+  <g filter="url(#alpha)">
+<rect x="0" y="0" width="48" height="48" style="fill:rgb(0%,0%,0%);fill-opacity:0.301961;stroke:none;"/>
   </g>
+</mask>
+<clipPath id="clip1">
+  <rect x="0" y="0" width="48" height="48"/>
+</clipPath>
+<g id="surface5" clip-path="url(#clip1)">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 42 24 C 42 33.941406 33.941406 42 24 42 C 14.058594 42 6 33.941406 6 24 C 6 14.058594 14.058594 6 24 6 C 33.941406 6 42 14.058594 42 24 Z M 42 24 "/>
+</g>
+</defs>
+<g id="surface1">
+<rect x="0" y="0" width="48" height="48" style="fill:rgb(27.843137%,31.372549%,30.588235%);fill-opacity:1;stroke:none;"/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:0.101961;" d="M 0 0 L 48 0 L 48 1.5 L 0 1.5 Z M 0 0 "/>
+<use xlink:href="#surface5" mask="url(#mask0)"/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 18 18 L 18 30 L 30 30 L 30 18 Z M 21 21 L 27 21 L 27 27 L 21 27 Z M 21 21 "/>
+</g>
 </svg>

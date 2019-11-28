@@ -1,75 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="32"
-   height="32"
-   viewBox="0 0 32 32"
-   version="1.1"
-   id="svg12"
-   sodipodi:docname="close-pressed.svg"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
-  <metadata
-     id="metadata18">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs16" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="743"
-     id="namedview14"
-     showgrid="false"
-     inkscape:zoom="7.375"
-     inkscape:cx="-23.77768"
-     inkscape:cy="11.424668"
-     inkscape:window-x="0"
-     inkscape:window-y="25"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg12" />
-  <rect
-     width="32"
-     height="32"
-     fill="#47504e"
-     id="rect2" />
-  <rect
-     width="32"
-     height="1"
-     fill="#FFFFFF"
-     fill-opacity="0.1"
-     id="rect4" />
-  <g
-     fill="#FFFFFF"
-     id="g10">
-    <circle
-       cx="16"
-       cy="16"
-       r="12"
-       opacity="0.3"
-       id="circle6"
-       style="fill:#ffba2d;fill-opacity:1;opacity:1" />
-    <path
-       d="m12.4 11-1.41 1.41 3.59 3.59-3.59 3.59 1.41 1.41 3.59-3.59 3.59 3.59 1.41-1.41-3.59-3.59 3.59-3.59-1.41-1.41-3.59 3.59z"
-       id="path8" />
-  </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48pt" height="48pt" viewBox="0 0 48 48" version="1.1">
+<g id="surface1">
+<rect x="0" y="0" width="48" height="48" style="fill:rgb(27.843137%,31.372549%,30.588235%);fill-opacity:1;stroke:none;"/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:0.101961;" d="M 0 0 L 48 0 L 48 1.5 L 0 1.5 Z M 0 0 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,72.941176%,17.647059%);fill-opacity:1;" d="M 42 24 C 42 33.941406 33.941406 42 24 42 C 14.058594 42 6 33.941406 6 24 C 6 14.058594 14.058594 6 24 6 C 33.941406 6 42 14.058594 42 24 Z M 42 24 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 18.601562 16.5 L 16.484375 18.613281 L 21.871094 24 L 16.484375 29.386719 L 18.601562 31.5 L 23.984375 26.113281 L 29.371094 31.5 L 31.484375 29.386719 L 26.101562 24 L 31.484375 18.613281 L 29.371094 16.5 L 23.984375 21.886719 Z M 18.601562 16.5 "/>
+</g>
 </svg>
